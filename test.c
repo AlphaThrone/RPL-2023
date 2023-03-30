@@ -2,5 +2,4 @@
 
 int main(){
     printf("halo\n");
-    printf("");
 }
